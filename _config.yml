@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Learnings2020
+title: Learnings
 description: This repo contains the learnings of the latest technologies includes python, streamlit and other technologies.
 github_username: SurendraRedd
 # you can comment the below line out if your repo name is not different than your baseurl
@@ -39,8 +39,8 @@ baseurl: "/Learnings2020" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: surendraece@402
+    github: SurendraRedd
 
 # Set this to true to get LaTeX math equation support
 use_math: 
