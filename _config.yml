@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Learnings2020
+description: This repo contains the learnings of the latest technologies includes python, streamlit and other technologies.
 github_username: SurendraRedd
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Learnings2020"
